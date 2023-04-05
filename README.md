@@ -5,20 +5,20 @@ Contact
 email -yemiermiyas@gmail.com
  date -04/05/2023
  Add function
- //  <div class="container text-center">
-   //             <div class="row">
-     //           <div class="col-4">
-       //          <div class="bg">
-       / i write this code to put my image in the card 
-       //   <div id="skills"> </div> 
-       //<section id="Skills"> 
-         //   <h1>My Skills</h1>
-           //     <div class="progress-bar-container">
-             //       <h2>Java</h2>
-               //     <div class="progress-bar">
-                 //       <span class="percentage java">60%</span>
-                   // </div>
-                //</div>
+   <div class="container text-center">
+               <div class="row">
+               <div class="col-4">
+                <div class="bg">
+        i write this code to put my image in the card 
+          <div id="skills"> </div> 
+       <section id="Skills"> 
+            <h1>My Skills</h1>
+                <div class="progress-bar-container">
+                    <h2>Java</h2>
+                    <div class="progress-bar">
+                       <span class="percentage java">60%</span>
+                    </div>
+                </div>
                 
                 this code is for the progress bar i also give my id skill becouse when i touch the skill it takes me to the skill bars 
                   <div class="column">
