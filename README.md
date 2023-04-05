@@ -5,8 +5,7 @@ Contact
 email -yemiermiyas@gmail.com
  date -04/05/2023
  Add function
-   <html>
-	<head>
+  
           <div id="skills"> </div> 
        <section id="Skills"> 
             <h1>My Skills</h1>
@@ -16,8 +15,7 @@ email -yemiermiyas@gmail.com
                        <span class="percentage java">60%</span>
                     </div>
                 </div>
-	       </head>
-                </html
+	       
                 this code is for the progress bar i also give my id skill becouse when i touch the skill it takes me to the skill bars 
                   <div class="column">
                                         <form action="/action_page.php">
